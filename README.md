@@ -1,1 +1,4 @@
-# WhatsApp_chat_analyzer_NLP_project
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
